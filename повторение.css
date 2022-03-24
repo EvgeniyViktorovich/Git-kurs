@@ -1,0 +1,49 @@
+h2 {
+  font-style: oblique;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+h3 {
+  color: aqua;
+  font-family: "Courier New", Courier, monospace;
+}
+table {
+  width: 400px;
+  height: 200px;
+}
+p {
+  text-align: justify;
+  font-style: oblique;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 30 px;
+  text-indent: 30px;
+}
+td {
+  text-align: center;
+}
+table {
+  vertical-align: top;
+}
+.container {
+  margin: 0 auto;
+}
+aside {
+  background-color: brown;
+  float: left;
+}
+.content {
+  background-color: blueviolet;
+  float: left;
+}
+tra {
+  margin: auto;
+  width: 750 px;
+}
+header {
+  background-color: green;
+}
+.content,
+aside {
+  height: 400px;
+}
